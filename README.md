@@ -3,3 +3,12 @@
 
 
 * Python3
+
+Create database schema:
+make createdb
+
+Runserver:
+make runserver
+
+Tests:
+make  test
